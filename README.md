@@ -1,2 +1,2 @@
-# Portfilio
-jeevanprofile
+# Portfolio
+jeevan profile
